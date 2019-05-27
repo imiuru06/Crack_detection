@@ -1,5 +1,5 @@
 # Crack_detection
-This repository is the implementation of structaral crack using Mask R-CNN.
+This repository is the implementation of detecting structaral cracks using Mask R-CNN.
 ![cracks](https://user-images.githubusercontent.com/40798690/58052381-4d6f0b80-7b1a-11e9-9a09-0ee45faf6334.PNG)
 
 The repository includes:

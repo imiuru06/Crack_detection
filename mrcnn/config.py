@@ -1,10 +1,9 @@
 """
-Mask R-CNN
-Base Configurations class.
+Muhammad Monjurul Karim
+PhD Student of Systems Engineering
+Missouri University of Science and Technology
 
-Copyright (c) 2017 Matterport, Inc.
-Licensed under the MIT License (see LICENSE for details)
-Written by Waleed Abdulla
+Code adopted from 2017 Matterport, Inc.
 """
 
 import numpy as np
